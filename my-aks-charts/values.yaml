@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: myacrrepo54.azurecr.io/akannan1087/docker-spring-boot
+  repository: 779846807782.dkr.ecr.us-east-1.amazonaws.com/myawsrepo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
